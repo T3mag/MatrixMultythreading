@@ -1,0 +1,15 @@
+/Users/arturminnusin/RiderProjects/MatrixMultythreading/MatrixMultythreading/bin/Debug/net7.0/MatrixMultythreading
+/Users/arturminnusin/RiderProjects/MatrixMultythreading/MatrixMultythreading/bin/Debug/net7.0/MatrixMultythreading.deps.json
+/Users/arturminnusin/RiderProjects/MatrixMultythreading/MatrixMultythreading/bin/Debug/net7.0/MatrixMultythreading.runtimeconfig.json
+/Users/arturminnusin/RiderProjects/MatrixMultythreading/MatrixMultythreading/bin/Debug/net7.0/MatrixMultythreading.dll
+/Users/arturminnusin/RiderProjects/MatrixMultythreading/MatrixMultythreading/bin/Debug/net7.0/MatrixMultythreading.pdb
+/Users/arturminnusin/RiderProjects/MatrixMultythreading/MatrixMultythreading/obj/Debug/net7.0/MatrixMultythreading.csproj.AssemblyReference.cache
+/Users/arturminnusin/RiderProjects/MatrixMultythreading/MatrixMultythreading/obj/Debug/net7.0/MatrixMultythreading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturminnusin/RiderProjects/MatrixMultythreading/MatrixMultythreading/obj/Debug/net7.0/MatrixMultythreading.AssemblyInfoInputs.cache
+/Users/arturminnusin/RiderProjects/MatrixMultythreading/MatrixMultythreading/obj/Debug/net7.0/MatrixMultythreading.AssemblyInfo.cs
+/Users/arturminnusin/RiderProjects/MatrixMultythreading/MatrixMultythreading/obj/Debug/net7.0/MatrixMultythreading.csproj.CoreCompileInputs.cache
+/Users/arturminnusin/RiderProjects/MatrixMultythreading/MatrixMultythreading/obj/Debug/net7.0/MatrixMultythreading.dll
+/Users/arturminnusin/RiderProjects/MatrixMultythreading/MatrixMultythreading/obj/Debug/net7.0/refint/MatrixMultythreading.dll
+/Users/arturminnusin/RiderProjects/MatrixMultythreading/MatrixMultythreading/obj/Debug/net7.0/MatrixMultythreading.pdb
+/Users/arturminnusin/RiderProjects/MatrixMultythreading/MatrixMultythreading/obj/Debug/net7.0/MatrixMultythreading.genruntimeconfig.cache
+/Users/arturminnusin/RiderProjects/MatrixMultythreading/MatrixMultythreading/obj/Debug/net7.0/ref/MatrixMultythreading.dll
